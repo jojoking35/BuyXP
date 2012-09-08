@@ -1,0 +1,14 @@
+name: BuyXP
+main: fr.jojoking35.buyxp.BuyXP
+version: 1.0
+author: jojoking35
+description: Buy XP with money !
+depends: [Vault]
+commands:
+    buyxp:
+        description: Buy XP with money.
+        usage: /<command> <money>
+permissions:
+    buyxp.use:
+        description: Allows to buy XP with money.
+        default: true

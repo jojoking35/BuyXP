@@ -1,0 +1,14 @@
+BuyXP - v1.0
+
+This is a bukkit plugin create by jojoking35.
+You can buy XP with money !
+This plugin depends to Vault !
+
+One command for all !
+/buyxp			Info
+/buyxp <xp>		Buy <xp> XP
+
+You can use permission : buyxp.use
+Defaut for all !
+
+You can contact me to jojokingjojo@gmail.com
