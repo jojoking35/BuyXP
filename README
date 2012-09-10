@@ -1,4 +1,4 @@
-BuyXP - v1.0
+BuyXP - v2.0
 
 This is a bukkit plugin create by jojoking35.
 You can buy XP with money !
@@ -8,7 +8,21 @@ One command for all !
 /buyxp			Info
 /buyxp <xp>		Buy <xp> XP
 
-You can use permission : buyxp.use
+You can use permission for the command : buyxp.use
 Defaut for all !
+
+New : use a sign !
+
+-------------------
+|     [BuyXP]     |
+|        x        |           x : number of xp who want to buy, if null, buy 1 XP.
+|                 |           You can write on line 3 and 4 what you want ;)
+|                 |
+-------------------
+
+You have 3 new permission for sign :
+	buyxp.usesign : Allows to use sign to buy XP with money. (default : all people)
+	buyxp.createsign : Allows to create sign to buy XP with money. (default : only op)
+	buyxp.destroysign : Allows to destroy sign to buy XP with money. (default : only op)
 
 You can contact me to jojokingjojo@gmail.com

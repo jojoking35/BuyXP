@@ -1,6 +1,6 @@
 name: BuyXP
 main: fr.jojoking35.buyxp.BuyXP
-version: 1.0
+version: 2.0
 author: jojoking35
 description: Buy XP with money !
 depends: [Vault]
@@ -9,6 +9,15 @@ commands:
         description: Buy XP with money.
         usage: /<command> <money>
 permissions:
-    buyxp.use:
-        description: Allows to buy XP with money.
+    buyxp.usecmd:
+        description: Allows to use command to buy XP with money.
         default: true
+    buyxp.usesign:
+        description: Allows to use sign to buy XP with money.
+        default: true
+    buyxp.createsign:
+        description: Allows to create sign to buy XP with money.
+        default: op
+    buyxp.destroysign:
+        description: Allows to destroy sign to buy XP with money.
+        default: op
