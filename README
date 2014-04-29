@@ -1,6 +1,6 @@
 BuyXP - v2.0
 
-This is a bukkit plugin create by jojoking35.
+This is a bukkit plugin create by Colfej.
 You can buy XP with money !
 This plugin depends to Vault !
 
@@ -10,6 +10,8 @@ One command for all !
 
 You can use permission for the command : buyxp.use
 Defaut for all !
+
+
 
 New : use a sign !
 
@@ -25,4 +27,6 @@ You have 3 new permission for sign :
 	buyxp.createsign : Allows to create sign to buy XP with money. (default : only op)
 	buyxp.destroysign : Allows to destroy sign to buy XP with money. (default : only op)
 
-You can contact me to jojokingjojo@gmail.com
+
+
+You can contact me to contact@colfej.fr
